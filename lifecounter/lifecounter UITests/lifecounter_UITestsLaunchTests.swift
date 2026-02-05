@@ -1,13 +1,13 @@
 //
-//  lifecounterUITestsLaunchTests.swift
-//  lifecounterUITests
+//  lifecounter_v2UITestsLaunchTests.swift
+//  lifecounter v2UITests
 //
-//  Created by iguest on 1/28/26.
+//  Created by iguest on 2/4/26.
 //
 
 import XCTest
 
-final class lifecounterUITestsLaunchTests: XCTestCase {
+final class lifecounter_v2UITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

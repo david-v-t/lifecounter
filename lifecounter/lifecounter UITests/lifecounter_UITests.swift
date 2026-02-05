@@ -1,13 +1,13 @@
 //
-//  lifecounterUITests.swift
-//  lifecounterUITests
+//  lifecounter_v2UITests.swift
+//  lifecounter v2UITests
 //
-//  Created by iguest on 1/28/26.
+//  Created by iguest on 2/4/26.
 //
 
 import XCTest
 
-final class lifecounterUITests: XCTestCase {
+final class lifecounter_v2UITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
